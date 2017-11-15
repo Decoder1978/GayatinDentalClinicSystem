@@ -1,7 +1,7 @@
-College Thesis:
+
 Gayatin Dental Clinic Online Reservation, Patient Profiling and Billing System.
 
-Our college thesis was based on a Dentsitry Clinic, in Cebu Philippines. Our clients wanted a system to replace all of it's manaul processes to make their work flow much more effecient and less time consuming. So we as team composed of three people proposed a system with 3 major functionality.
+Our clients wanted a system to replace all of it's manaul processes to make their work flow much more effecient and less time consuming. So we as team composed of three people proposed a system with 3 major functionality.
 
 Online Reservation:
 -A clinic calendar where patients could select a specific time slot and date for an appointment. Patients could only select dates and schedules that are still open or available or if the clinic is not closed on that day.
