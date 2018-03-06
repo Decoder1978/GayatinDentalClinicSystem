@@ -6,6 +6,7 @@
 	three people proposed a system with 4 major functionality.
 
 #Online Reservation:
+	
 	-A clinic calendar where patients could select a specific time slot and date 
 	for an appointment. Patients could only select dates and schedules that are 
 	still open or available or if the clinic is not closed on that day.
