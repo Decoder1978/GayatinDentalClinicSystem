@@ -61,7 +61,7 @@
 
 	The after payment a reciept can be printed for the clinic to issue the costumer.
 
-Report Generation
+#Report Generation
 
 	-Generated a statistical report with a Graph Interface showing different filters of data on Any given pair of dates.
         Including Gender, Age, Number of Patients, Types of Dental Operation Performed
